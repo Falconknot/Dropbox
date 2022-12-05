@@ -1,0 +1,242 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    height: 110vh;
+    width: 175,5vh;
+    margin: auto 0px auto 0px;
+}
+
+
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    font: bold;
+    font-size: large;
+    height: 45px;
+}
+
+#header a:hover {
+    display: flex;
+    flex-direction: row;
+    height: 14%;
+    width: 100%;
+    background-color: grey;
+    text-align: top;
+    align-items: center;
+    color: black;
+    
+}
+
+#header a {
+    display: block;
+    color: black;
+    align-items: center;
+    padding: 20px 10px;
+    text-decoration: none; 
+}
+
+#content_box_db {
+    display: flex;
+    flex-direction: row;
+    font-size: xx-large;
+    font-weight: 300;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+#box1 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    background-color: #123456;
+    border-radius: 12px;
+}
+
+#box2 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#box3 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box4 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box5 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box6 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box7 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box8 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box9 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box10 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+#box11 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0061fe;
+}
+
+#flex_item_2 {
+    display: flex;
+    flex-direction: column;
+    height: 89%;
+    width: 100%;
+    margin: 0px;
+    background-color: lightgrey;
+}
+
+#content_box1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    align-self: center;
+    height: 50%; 
+    width: 90%; 
+    margin: 50px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#content_box2 {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#content_box_2_child {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    height: 300px;
+}
+
+#content_box1 {
+    margin: 0px;
+    height: 15%;
+}
+
+p {
+    font-size: large;
+}
+
+#arbeid {
+    border: solid black 1px;
+    width: 50%;
+    height: 100%;
+    text-align: left;
+    background-color: white;
+    margin: auto;
+}
+#privat {
+    border: solid black 1px;
+    width: 50%;
+    height: 100%;
+    text-align: left;
+    background-color: white;
+}
+
+
+#content_box2 img {
+    display: flex;
+    width: 1117px;
+}
+
+#content_box_2_child div {
+    position: relative;
+    padding: 10px;
+}
+
+#content_box_2_child h2 {
+    margin: 0px;
+}
+
+#content_box_2_child button {
+    color: white;
+    text-align: left;
+    width: 500px;
+    height: 70px;
+    background-color: #0061fe;
+    position: absolute;
+    margin-left: 10px;
+    bottom: 10px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
